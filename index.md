@@ -4,7 +4,8 @@ nav_order: 0
 layout: home
 ---
 # Lab Guide
-_By [Eric Berndt](https://ekberndt.github.io/)_
+_By [Eric Berndt](https://ekberndt.github.io/) and 
+    [Chris Lai](https://www.linkedin.com/in/chris-lai-/)_
 
 This is a Lab Guide for EECS/ME C106A/B at [University of California, Berkeley](https://eecs.berkeley.edu/).
 
